@@ -1,2 +1,2 @@
 # AzureCloudMonk.github.io
-https://CloudMonk.io - Cloud Monk - Azure DevOps Engineer - Docker, Kubernetes, PowerShell, Office365, AWS, Chef
+https://CloudMonk.io - Cloud Monk - Cloud Native DevOps Engineer - Kubernetes-GitOps-Podman-Docker, Azure, Python, PowerShell, Microsoft 365, AWS, GCP, DevSecOps
